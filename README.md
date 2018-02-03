@@ -2,8 +2,8 @@
 This repository contains the content I got from PyCon Pakistan 2017.
 
 ## Event Details
-`Location:` FAST National University, Lahore, Pakistan.
-`Date:` December 16th, 2017
+**Location:** FAST National University, Lahore, Pakistan.  
+**Date:** December 16th, 2017
 
 ## Speakers GitHub Profiles:
 1. Yashir Bashir - [@ybashir](https://github.com/ybashir/)  
